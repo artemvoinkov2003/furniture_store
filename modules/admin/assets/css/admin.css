@@ -1,0 +1,23 @@
+.admin-navbar {
+    background: #2c3e50;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.nav-btn {
+    color: white;
+    background: #3498db;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.grid-view th {
+    background: #f8f9fa;
+    padding: 12px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
